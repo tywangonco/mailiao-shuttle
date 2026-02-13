@@ -1,0 +1,22 @@
+# Database
+*.db
+*.sqlite3
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env
+.venv/
+env/
+ENV/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/
